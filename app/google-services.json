@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "478353040059",
+    "firebase_url": "https://glassbox-india.firebaseio.com",
+    "project_id": "glassbox-india",
+    "storage_bucket": "glassbox-india.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478353040059:android:1e9009fe3c61a79032ff9e",
+        "android_client_info": {
+          "package_name": "com.example.android.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478353040059-cjkuivqn6lrjr3eka365oveqrn7bhicb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaa2ymGerwuhHOp6hG85W4zcjpvzXUVtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478353040059-cjkuivqn6lrjr3eka365oveqrn7bhicb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
